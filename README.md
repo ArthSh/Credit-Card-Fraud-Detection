@@ -250,4 +250,4 @@ This project is licensed under the MIT License.
 ## Author
 
 **Arth Shivhare**
-I'm an ungergraduate student at Indian Institute of Technology, Bombay (India). I did this project, simply for my interest in ML-based applications in real-life challenges, one such as credit-card frauds. I wish to pursue this interest more and more.
+: I'm an undergraduate student at Indian Institute of Technology, Bombay (India). I did this project, simply for my interest in ML-based applications in real-life challenges, one such as credit-card frauds. I wish to pursue this interest more and more.
