@@ -148,42 +148,6 @@ Accuracy alone was not used for model selection due to the highly imbalanced nat
 
 ---
 
-## Results
-
-Place your screenshots inside the `images` folder.
-
-Example:
-
-```
-images/
-│
-├── class_distribution.png
-├── feature_importance.png
-├── confusion_matrix.png
-├── roc_curve.png
-├── precision_recall_curve.png
-├── threshold_optimization.png
-└── model_comparison.png
-```
-
-Then embed them like this:
-
-```markdown
-### Model Comparison
-
-![Model Comparison](images/model_comparison.png)
-
-### ROC Curve
-
-![ROC Curve](images/roc_curve.png)
-
-### Feature Importance
-
-![Feature Importance](images/feature_importance.png)
-```
-
----
-
 ## Repository Structure
 
 ```
